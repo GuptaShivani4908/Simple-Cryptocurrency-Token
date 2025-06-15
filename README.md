@@ -7,7 +7,7 @@ Simple Cryptocurrency Token with Basic Transfer Functionality
 This project implements a lightweight cryptocurrency token on the Ethereum blockchain using Solidity. The token follows the basic ERC20-like standard, providing essential functionality for token transfers between addresses. It's designed to be straightforward, secure, and easy to understand, making it perfect for educational purposes or as a foundation for more complex token implementations.
 
 ## Project Vision
-The vision for this project is to create an accessible entry point into cryptocurrency development by providing a clean, well-documented implementation of a token contract. By focusing on simplicity and core functionality, we aim to help developers understand the fundamentals of token economics and blockchain interactions without the complexity of more advanced features. its necessary for python 
+The vision for this project is to create an accessible entry point into cryptocurrency development by providing a clean, well-documented implementation of a token contract. By focusing on simplicity and core functionality, we aim to help developers understand the fundamentals of token economics and blockchain interactions without the complexity of more advanced features. 
 
 ## Key Features
 - **Simple token creation**: Easily deploy a new token with customizable name, symbol, decimals, and initial supply
