@@ -15,8 +15,7 @@ The vision for this project is to create an accessible entry point into cryptocu
 - **Transfer functionality**: Allow users to send tokens to other addresses securely
 - **Approval mechanism**: Enable the delegation of token spending to other addresses
 - **Security checks**: Prevent common errors like transfers to zero addresses or spending more tokens than available ... y hello its necessary to adddd 
-- **Events**: Emit standardized events transfers and approvals to facilitate off-chain monitoring  thals all work
-
+- **Events**: Emit standardized events transfers and approvals to facilitate off-chain monitoring  
 ## Future Scope..
 - **Token burning**: Implement functionality to permanently remove tokens from circulation
 - **Minting mechanism**: Add the ability to create new tokens after initial deployment
