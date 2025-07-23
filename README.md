@@ -24,6 +24,8 @@ The vision for this project is to create an accessible entry point into cryptocu
 - **Fee mechanisms**: Add optional transfer fees for sustainability or redistribution
 - **Enhanced security**: Implement additional security features like rate limiting or blacklisting
 - **Cross-chain compatibility**: Explore bridge solutions to make the token usable across multiple blockchains
+**Enhanced security**: Implement additional security features like rate limiting or blacklisting
+- **Cross-chain compatibility**: Explore bridge solutions to make the token usable across multiple blockchains
 
 ## Contract details
 0xf771c5755687AfBf0e8e6A5A508Bb198cEB5322e
