@@ -19,7 +19,7 @@ The vision for this project is to create an accessible entry point into cryptocu
 - **Token burning**: Implement functionality to permanently remove tokens from circulation
 - **Minting mechanism**: Add the ability to create new tokens after initial deployment
 - **Pausable transfers**: Allow contract administrators to temporarily pause token transfers in emergency situations
-- **Timelock features**: Implement vesting schedules for gradual token release
+- **Timelock features**: Implement vesting schedules for gradual token release hhhhh
 - **Governance integration**: Enable token holders to vote on protocol decisions
 - **Fee mechanisms**: Add optional transfer fees for sustainability or redistribution
 - **Enhanced security**: Implement additional security features like rate limiting or blacklisting
