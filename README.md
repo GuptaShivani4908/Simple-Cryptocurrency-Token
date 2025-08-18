@@ -29,4 +29,4 @@ The vision for this project is to create an accessible entry point into cryptocu
 ## Contract details
 0xf771c5755687AfBf0e8e6A5A508Bb198cEB5322e
 ![alt text](image.png)
-kind of hide
+kind of
