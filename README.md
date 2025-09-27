@@ -9,7 +9,7 @@ This project implements a lightweight cryptocurrency token on the Ethereum block
 ## Project Vision
 The vision for this project is to create an accessible entry point into cryptocurrency development by providing a clean, well-documented implementation of a token contract. By focusing on simplicity and core functionality, we aim to help developers understand the fundamentals of token economics and blockchain interactions without the complexity of more advanced features.  too add more projects! 
 ## Key Features 
-- **Simple token creation**: Easily deploy a new token with customizable name, symbol, decimals, and initial supply 
+- **Simple token creation**: Easily deploy a new token with customizable name, symbol, decimals, and initial supply jj
 - **Balance tracking**: Maintain accurate balances for all token holders
 - **Transfer functionality**: Allow users to send tokens to other addresses securely
 - **Approval mechanism**: Enable the delegation of token spending to other addresses
