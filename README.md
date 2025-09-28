@@ -21,7 +21,7 @@ The vision for this project is to create an accessible entry point into cryptocu
 - **Pausable transfers**: Allow contract administrators to temporarily pause token transfers in emergency situations
 - **Timelock features**: Implement vesting schedules for gradual token release 
 - **Governance integration**: Enable token holders to vote on protocol decisions 
-- **Fee mechanisms**: Add optional transfer fees for sustainability or redistribution
+- **Fee mechanisms**: Add optional transfer fees for sustainability or redistribution heheh
 - **Enhanced security**: Implement additional security features like rate limiting or blacklisting
 - **Cross-chain compatibility**: Explore bridge solutions to make the token usable across multiple blockchains
 **Enhanced security**: Implement additional security features like rate limiting or blacklisting
